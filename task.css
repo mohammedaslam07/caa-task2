@@ -48,7 +48,7 @@ h1 {
     justify-content: center;
 }
 .box1 {
-    background-color: blueviolet;
+    background-color: rgb(131, 16, 238);
     width: 280px;
     height: 420px;
     border-radius: 20px;
@@ -149,7 +149,8 @@ button {
     background-color: rgb(233, 198, 134);
 }
 .but2 {
-    background-color: blueviolet;
+    background-color: rgb(131, 16, 238);
+    color: white;
 }
 .span12,.span13 {
     color: rgba(192, 192, 192, 0.863);
