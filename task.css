@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+i {
+    color: blueviolet;
+}
+.span1 {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 30px;
+}
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+.span2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+    color: rgba(121, 28, 209, 0.904);
+    text-decoration: underline;
+}
+.span3 {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    color: rgba(0, 0, 0, 0.514);
+}
+.span4 {
+    color: black;
+    margin-left: 7px;
+}
+.container2 {
+    display: flex;
+    margin-top: 40px;
+    flex-wrap: wrap;
+    gap: 55px;
+    justify-content: center;
+}
+.box1 {
+    background-color: blueviolet;
+    width: 280px;
+    height: 420px;
+    border-radius: 20px;
+    position: relative;
+}
+.box2 {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 20px;
+    position: relative;
+    box-shadow: 2px 2px 3px 2px silver;
+}
+.box3 {
+    background-color: white;
+    width: 280px;
+    height: 420px;
+    border-radius: 20px;
+    position: relative;
+    box-shadow: 2px 2px 3px 2px silver;
+}
+.one {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 18px;
+    margin-left: 19px;
+    color: white;
+}
+.two {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 28px;
+    margin-left: 18px;
+    position: absolute;
+    top: 35px;
+    color: white;
+}
+.span11 {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.5);
+}
+h3 {
+    position: absolute;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 18px;
+    top: 75px;
+}
+ul {
+    margin-left: 35px;
+    position: absolute;
+    top: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+li {
+    padding: 6px;
+}
+
+.col,.col2 {
+    color: black;
+}
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px 50px 20px 50px;
+    position: absolute;
+    top: 350px;
+    left: 20px;
+    border-radius: 15px;
+    background-color: white;
+}
+
+.one1,.one2 {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 18px;
+    margin-left: 19px;
+}
+
+.two1,.two2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 28px;
+    margin-left: 18px;
+    position: absolute;
+    top: 35px;
+}
+.but1 {
+    background-color: rgb(233, 198, 134);
+}
+.but2 {
+    background-color: blueviolet;
+}
+.span12,.span13 {
+    color: rgba(192, 192, 192, 0.863);
+    font-size: 15px;
+}
